@@ -2,7 +2,7 @@ public class MySampleApexClass {
     // Class member variables
     public static Integer myValue = 0;
     public static String myString = '';
-//sainath the data in method
+//sainath the data in method this line 
     // Method definition 
     public static Integer getCalculatedValue() {
         // Perform some calculation
